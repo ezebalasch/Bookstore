@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Nunito:wght@500&family=Roboto&display=swap');
+@font-face {
+    font-family: 'Caprasimo', cursive;
+    src: url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+}
+@font-face {
+    font-family: 'Nunito', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@500&display=swap');
+}
+@font-face {
+    font-family: 'Roboto', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+}
