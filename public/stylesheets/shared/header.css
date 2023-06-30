@@ -58,6 +58,8 @@
     border-radius: 1rem;
   }
 
+
 .header-nav li a:hover::after {
     transform: scaleX(1); /* Mostrar subrayado con transición */
 }
+
