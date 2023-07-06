@@ -63,3 +63,21 @@
     transform: scaleX(1); /* Mostrar subrayado con transición */
 }
 
+@media (max-width: 768px) {
+    .header-nav {
+      flex-direction: column;
+
+    }
+
+    .header-nav ul {
+        margin: 0;
+        justify-content: space-around;
+
+    }
+
+    .header-nav li a{
+        padding: 0.3rem;
+    }
+    
+    
+  }

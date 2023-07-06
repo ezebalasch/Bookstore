@@ -83,3 +83,16 @@
     color: var(--color-text-light);
     font-size: inherit;
 }
+
+@media (max-width: 768px) {
+    .form-row{
+        display: flex;
+        flex-direction: column;
+    }
+    .form-item{
+        margin: 0;
+
+    }
+
+
+}

@@ -47,6 +47,7 @@
 .btn-row{
     display: flex;
     align-items: flex-start;
+
 }
 
 .btn-row > * {
@@ -55,4 +56,19 @@
 
 .btn-row > *:first-child{
     margin-left: 0;
+}
+@media (max-width: 768px) {
+      .btn{
+        padding: 1vw 2vw;
+        font-size: 3vw;
+        margin: 1vw 1vw 1vw 1vw;
+    }
+    .btn-row > * {
+        margin-left: 0;
+    }
+    
+    .btn-row > *:first-child{
+        margin-left: 0;
+    }
+    
 }
